@@ -1,8 +1,8 @@
-##Introduction:
+## Introduction:
 This code is designed for a medical store named RAAS. It is a go-to solution for
 the pharmacy for both the administrator server and the customer portal.
 
-##Details of each feature:
+### Details of each feature:
 The code provides the pharmacy with both the solution for the administrator as well as
 the customer and can either be switched depending upon the individual’s
 requirement.
@@ -18,7 +18,7 @@ get the options to purchase the medicines depending upon his demand and
 quantity or he could set an appointment which would be stored in the admin
 server or he could view an existing loyalty card or set up a new one.
 
-##Real-life application:
+### Real-life application:
 It is a code which can be used in a medical pharmacy with access to both the
 server programs displaying the front-end portal that the customer uses and manages and 
 keeps the record at the back end of existing administrative
